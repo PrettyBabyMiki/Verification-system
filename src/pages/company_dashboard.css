@@ -1,0 +1,71 @@
+.mainboard {
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 100px;
+    display: flex;
+    height: 80%;
+}
+
+.items {
+    margin-left: 70px;
+    margin-top: 20px;
+    font-family: Palatino Linotype;
+
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.textfontsize40 {
+    font-size: 40px;
+}
+.fullboard {
+    height: 100%;
+}
+
+.sidebar {
+    width: 25%;
+}
+
+.sidebarboard {
+    padding-top: 30px;
+    text-align: center;
+}
+.mainpart {
+    width: 75%;
+}
+
+.mainpartboard {
+    width: 100%;
+    height: 100%;
+}
+
+/* verify */
+
+.verify {
+    font-size: 20px;
+}
+
+.Boarder-black-100 {
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+.verifyFullBoard {
+    height: 40%;
+    margin-bottom: 50px;
+}
+.verifyError {
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    color: red;
+}
+.verifyButton {
+    width: 250px;
+}
+
+.verityDetail {
+    font-size: 30px;
+    font-family:fantasy;
+}
